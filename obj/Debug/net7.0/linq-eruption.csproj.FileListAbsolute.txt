@@ -1,0 +1,14 @@
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\linq-eruption\bin\Debug\net7.0\linq-eruption.exe
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\linq-eruption\bin\Debug\net7.0\linq-eruption.deps.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\linq-eruption\bin\Debug\net7.0\linq-eruption.runtimeconfig.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\linq-eruption\bin\Debug\net7.0\linq-eruption.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\linq-eruption\bin\Debug\net7.0\linq-eruption.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\linq-eruption\obj\Debug\net7.0\linq-eruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\linq-eruption\obj\Debug\net7.0\linq-eruption.AssemblyInfoInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\linq-eruption\obj\Debug\net7.0\linq-eruption.AssemblyInfo.cs
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\linq-eruption\obj\Debug\net7.0\linq-eruption.csproj.CoreCompileInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\linq-eruption\obj\Debug\net7.0\linq-eruption.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\linq-eruption\obj\Debug\net7.0\refint\linq-eruption.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\linq-eruption\obj\Debug\net7.0\linq-eruption.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\linq-eruption\obj\Debug\net7.0\linq-eruption.genruntimeconfig.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\linq-eruption\obj\Debug\net7.0\ref\linq-eruption.dll
